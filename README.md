@@ -4,6 +4,11 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me, e-mail -> aerabenandrasana@gmail.com
 
+<p align="center">
+  Nombre de visiteurs<br>
+  <img src="https://profile-counter.glitch.me/Arcan7/count.svg" />
+</p>
+
 <!---
 Arcan7/Arcan7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
