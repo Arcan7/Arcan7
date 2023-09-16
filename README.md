@@ -1,13 +1,13 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:423da7,100:008080&fontColor=dedede&height=160&section=header&text=Tongasoa%20eto%20@%20Arcan7%2C%20misaotra%20mamangy%20&fontSize=20" />
 <p align=center>  <strong> Hi 👋, I'm Anna-el Gerard </strong> <p>
 
-<p align=center>  
+<!-- <p align=center>  
   <img src='https://readme-typing-svg.herokuapp.com?font=product+sans&color=06ACBD&center=true&lines=Bonjour%20le monde%20%C3%B4&size=18'>
 </p>
 
   <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=arcan7&theme=solarized-dark&theme=leafy&ring=047884&sideNums=06ACBD&dates=06ACBD&currStreakNum=06ACBD&currStreakLabel=06ACBD&background=ffffff00&hide_border=true&stroke=ffffff00" alt="GitHub Stats" />
-  </p>
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=Arcan7&theme=solarized-dark&theme=leafy&ring=047884&sideNums=06ACBD&dates=06ACBD&currStreakNum=06ACBD&currStreakLabel=06ACBD&background=ffffff00&hide_border=true&stroke=ffffff00" alt="GitHub Stats" />
+  </p> -->
 
 <p align='center'>
   <img alt='JavaScript' src='https://img.shields.io/badge/JavaScript-008080?style=for-the-badge&logo=javascript&logoColor=white'/>
