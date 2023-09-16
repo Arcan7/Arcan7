@@ -1,5 +1,6 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:423da7,100:008080&fontColor=dedede&height=160&section=header&text=Tongasoa%20eto%20@%20Arcan7%2C%20misaotra%20mamangy%20&fontSize=20" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:423da7,100:008080&fontColor=dedede&height=160&section=header&text=Tongasoa%20eto%20@%20Arcan7%2C%20misaotra%20mitsidika%20&fontSize=20" />
 <p align=center>  <strong> Hi 👋, I'm Anna-el Gerard </strong> <p>
+<br/>
 
 <!-- <p align=center>  
   <img src='https://readme-typing-svg.herokuapp.com?font=product+sans&color=06ACBD&center=true&lines=Bonjour%20le monde%20%C3%B4&size=18'>
